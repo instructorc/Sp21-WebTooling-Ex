@@ -1,0 +1,20 @@
+{
+    "person": [
+        {
+            "name": "Noah",
+            "age": 6,
+            "likeVegetables": false
+        },
+        {
+            "name": "Chris II",
+            "age": 7,
+            "likeVegetables": false
+        },
+        {
+            "name": "Silas",
+            "age": 4,
+            "likeVegetables": true
+        }
+
+    ]
+}
