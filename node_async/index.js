@@ -7,7 +7,7 @@ const fs = require('fs');
 var PORT = 3000;
 
 const server = http.createServer((req, res) =>{
-
+    
     //Decision Making Logic
     if(req.url == "/about" && req.method == "GET"){
         res.writeHead(200,  {'Content-Type': 'text/html'});

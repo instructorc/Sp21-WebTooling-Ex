@@ -1,0 +1,28 @@
+{
+    "student": "Colin",
+    "student_age": 23,
+    "student_institution": "Dunwoody College of Technology",
+    "student_city": "Brooklyn Center",
+    "student_program": "CWEB",
+    "student_start_term": "Fall 2014",
+    "student_commencement_term": "Spring 2017",
+    "number_of_courses_remaining": 3,
+    "student_course_info": [
+        {
+            "course_name": "CWEB1111",
+            "course_start_time": "7am",
+            "course_enrollment": 5
+        },
+        {
+            "course_name": "CWEB2121",
+            "course_start_time": "10:30am",
+            "course_enrollment": 12
+        },
+        {
+            "course_name": "CWEB1010",
+            "course_start_time": "9:30am",
+            "course_enrollment": 19
+        }
+    ]
+
+}
